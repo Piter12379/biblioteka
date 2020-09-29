@@ -1,0 +1,101 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	background: #EBDFC5;
+	color: #45330C;
+	font-size: 12px;
+	font-family: Verdana, Arial, sans-serif;
+}
+div {
+	overflow: hidden;
+	padding: 25px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+#ramka {
+	margin-right: auto;
+	margin-left: auto;
+	min-width: 400px;
+	max-width: 1800px;
+	background: #EBDFC5;
+	//border: 1px solid #859E68;
+}
+#naglowek {
+	background: #BFAA7A;
+	font-size: 40px;
+	font-family: Verdana, sans-serif;
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+}
+#kol1{
+	text-align:center;
+	width: 150px;
+	float: left;
+
+}
+#alert{
+	font-size: 16px;
+text-align: center;
+font-weight: bold;
+
+}
+#text_1{
+float:left;
+	font-size: 12px;
+	text-align: center;
+}
+#text_2{
+float:right;
+	font-size: 12px;
+	text-align: center;
+}
+#kol2 {
+
+}
+
+#stopka {
+
+	background: #D1BF97;
+	font-size: 16px;
+	color: #45330C;
+	font-family: Verdana, sans-serif;
+	font-style: italic;
+	text-align: center;
+	clear: both;
+}
+.kolumny {
+	margin: 10px 2%;
+	background: #E6D8BA;
+}
+ul, li {
+	display: block;
+	list-style: none;
+	margin: 0px;
+	padding:0px;
+}
+ul {
+	width: 99%;
+
+}
+ul a:link, ul a:visited {
+	display:block;
+	border-style: outset;
+	text-decoration:none;
+	background-color: #E6D8BA;
+	padding: 4px;
+	border:1px  outset#c0c0c0;
+}
+ul a:hover {
+	background-color: #EBDFC5;
+	border-style:inset;
+	color: #45330C;
+	padding:6px 3px 3px 6x;
+	border:0px;
+}
+h1 {
+	background: #E6D8BA;
+
+}
